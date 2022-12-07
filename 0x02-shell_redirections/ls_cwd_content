@@ -1,0 +1,14 @@
+total 47
+drwx------ 2 u0_a204 u0_a204 3452 Dec  7 14:34 .
+drwx------ 6 u0_a204 u0_a204 3452 Dec  7 13:03 ..
+-rwx------ 1 u0_a204 u0_a204   36 Dec  7 13:08 0-hello_world
+-rwx------ 1 u0_a204 u0_a204   34 Dec  7 13:18 1-confused_smiley
+-rwx------ 1 u0_a204 u0_a204   28 Dec  7 13:30 2-hellofile
+-rwx------ 1 u0_a204 u0_a204   37 Dec  7 13:40 3-twofiles
+-rwx------ 1 u0_a204 u0_a204   35 Dec  7 14:10 4-lastlines
+-rwx------ 1 u0_a204 u0_a204   35 Dec  7 14:11 5-firstlines
+-rwx------ 1 u0_a204 u0_a204   40 Dec  7 14:16 6-third_line
+-rwx------ 1 u0_a204 u0_a204   99 Dec  7 14:29 7-file
+-rwx------ 1 u0_a204 u0_a204   36 Dec  7 14:34 8-cwd_state
+-rw------- 1 u0_a204 u0_a204   30 Dec  7 13:04 README.md
+-rw------- 1 u0_a204 u0_a204    0 Dec  7 14:34 ls_cwd_content
