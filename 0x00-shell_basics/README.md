@@ -1,1 +1,1 @@
-Path name of current working directory
+This directory contains my first shell scripting task on alx
