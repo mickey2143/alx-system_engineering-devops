@@ -1,1 +1,1 @@
- ##A folder for shell scripting basics
+This directory contains my first shell scripting task on alx
